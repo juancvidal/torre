@@ -1,6 +1,6 @@
 {
   "homepage": "http://juancvidal.github.io/torre",
-  "name": "whitelabel",
+  "name": "torre",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
