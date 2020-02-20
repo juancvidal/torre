@@ -1,0 +1,15 @@
+nav{
+    background: #283593;
+}
+
+a,li,h1,nav{
+ font-family: 'Roboto';
+ color: #283593;
+}
+#sections{
+    margin-left: 20%;
+}
+
+main, footer {
+    padding-left: 300px;
+}

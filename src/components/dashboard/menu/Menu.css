@@ -1,0 +1,16 @@
+#logo{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+#logo-container {
+    height: auto;
+    margin-bottom: 32px;
+}
+
+#img-logo{
+    height: 15em;
+    border-radius: 50%;
+}

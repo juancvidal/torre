@@ -1,0 +1,17 @@
+
+.a-right{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+#btn-edit, #crear_user{
+    cursor: pointer;
+    font-size: 0.8125rem;
+    font-weight: 500;
+}
+
+
+#table-users{
+    font-size: 0.75rem;
+    font-weight: 500;
+}
