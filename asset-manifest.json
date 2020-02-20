@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/torre/static/css/main.1e46f545.chunk.css",
+    "main.js": "/torre/static/js/main.b132fdfc.chunk.js",
+    "main.js.map": "/torre/static/js/main.b132fdfc.chunk.js.map",
+    "runtime-main.js": "/torre/static/js/runtime-main.2928c7af.js",
+    "runtime-main.js.map": "/torre/static/js/runtime-main.2928c7af.js.map",
+    "static/js/2.0633848c.chunk.js": "/torre/static/js/2.0633848c.chunk.js",
+    "static/js/2.0633848c.chunk.js.map": "/torre/static/js/2.0633848c.chunk.js.map",
+    "index.html": "/torre/index.html",
+    "precache-manifest.e00fc4e510669dfbceb68b0ae1f03f9c.js": "/torre/precache-manifest.e00fc4e510669dfbceb68b0ae1f03f9c.js",
+    "service-worker.js": "/torre/service-worker.js",
+    "static/css/main.1e46f545.chunk.css.map": "/torre/static/css/main.1e46f545.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2928c7af.js",
+    "static/js/2.0633848c.chunk.js",
+    "static/css/main.1e46f545.chunk.css",
+    "static/js/main.b132fdfc.chunk.js"
+  ]
+}
